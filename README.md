@@ -1,8 +1,8 @@
 # FastApi
 
-Terminal:
+# Terminal:
 uvicorn main:app --reload 
 
-Documentation:
+# Documentation:
 localhost:8000/redoc
 localhost:8000/docs
