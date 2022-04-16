@@ -1,0 +1,17 @@
+100 - 199 -> informational responses
+200 - 299 -> Successful responses
+300 - 399 -> Redirection messages
+400 - 499 -> Client error responses
+500 - 599 -> Server error responses
+
+
+400 - Bad Request
+401 - Unauthorized
+404 - Not Found
+
+
+GET
+POST
+PUT
+PATCH
+DELETE
